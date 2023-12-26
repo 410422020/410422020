@@ -1,5 +1,8 @@
 ### Hi there 👋
 統資三乙 陳少凱
+是喜歡打籃球的大學生
+音樂愛好古典樂,爵士樂,R&B,Jpop
+
 <!--
 **410422020/410422020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
